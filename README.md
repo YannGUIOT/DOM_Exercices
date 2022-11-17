@@ -24,4 +24,4 @@
 <p align="center"><img src="https://www.startinop.com/wp-content/uploads/2020/11/html-css-js.jpg" alt="html css javascript" height="140"/> <em> &nbsp; </em> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShV0xwcdrFOnqw8MRO8YPC6KQzapkBcUnA-Q&usqp=CAU" alt="ruby" width="140" height="140"/></p>
 
 
-<p> ** DOWNLOAD FILES & OPEN INDEX.HTML IN YOUR BROWSER ! **</p> 
+<p> ** DOWNLOAD FILES & OPEN .HTML FILES IN YOUR BROWSER ! **</p> 
